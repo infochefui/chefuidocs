@@ -9,7 +9,7 @@ API documentation, changelogs, and release notes for [`@chefuicore/core`](https:
 
 | Version | Date | Components | Highlights |
 |---------|------|------------|------------|
-| [v1.7.1](releases/v1.7.1.md) | 2026-04-27 | 88 | auto-generated API docs pipeline for infochefui/ch |
+| [v1.8.0](releases/v1.8.0.md) | 2026-05-07 | 88 | modern chef-ui-code block with show/copy/download  |
 
 ## Quick Start
 
