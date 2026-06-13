@@ -9,7 +9,7 @@ API documentation, changelogs, and release notes for [`@chefuicore/core`](https:
 
 | Version | Date | Components | Highlights |
 |---------|------|------------|------------|
-| [v1.8.1](releases/v1.8.1.md) | 2026-05-07 | 88 | chef-button full-width + color props, dashboard us |
+| [v1.9.0](releases/v1.9.0.md) | 2026-06-13 | 88 | Domain Restrictions dashboard card |
 
 ## Quick Start
 
